@@ -53,7 +53,7 @@ NomSafe may collect statistics about the behavior of users on its application. T
 Third parties may become sponsors of NomSafe's home page banner. In such cases, the products will be clearly labelled as a sponsored. We do not send any individualized personal information to third parties, but they may have access to information that they obtained through aggregated statistics or other information you may have shared with them yourself. NomSafe does not rent, share, or trade personally-identifying-information with third parties for their direct marketing purposes. The content posted by these third parties will be reasonably identifiable as coming from a third party. We do not provide any personally-identifying-information to these third-party websites or businesses.
 
 ### Google AdMob
-Nomsafe uses Google Admob to display small advertisements on certain pages. Admob has the ability to direct relevant ads to the specified user through their use of a Google account. For more information about personalized ads, please visit https://www.google.com/admob/
+Nomsafe uses Google Admob to display small advertisements on certain pages. Admob has the ability to direct relevant ads to the specified user through their use of a Google account. For more information about personalized ads, please visit [AdMob](https://www.google.com/admob/).
 
 ### Marketing
 We do not share your personally-identifying-information with third parties for promotional purposes.
@@ -72,7 +72,7 @@ We actively retain Personal Information only as long as it is required for our r
 Our policy is to response to access requests as required by applicable laws. Nomsafe may decline access to Personal Information in certain circumstances. These include where the information requested would reveal confidential information or personal information about someone else, or if legal or regulatory requirements prohibit providing access or permit not providing access to such information.
 If you are concerned about how we treat your Personal Information, please contact us with the information set out below in "Answering Your Privacy Questions".
 
-## H. Your Privacy Questions
-If you do not give consent, or have other questions regarding privacy, please email support@nomsafe.com with the subject 'Privacy Policy Withdrawal' or 'Privacy Policy Question' and we will follow up promptly.
+## H. Answering Your Privacy Questions
+If you do not give consent, or have other questions regarding privacy, please email [support@nomsafe.com](mailto:support@nomsafe.com) with the subject 'Privacy Policy Withdrawal' or 'Privacy Policy Question' and we will follow up promptly.
 
 
